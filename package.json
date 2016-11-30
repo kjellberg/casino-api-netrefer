@@ -1,0 +1,15 @@
+{
+  "name": "casino-api-netrefer",
+  "version": "1.0.0",
+  "description": "Scrape earnings data from Netrefer affiliate panel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rasmus Kjellberg <rk@youngmedia.se>",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "nightmare": "^2.8.1"
+  }
+}

@@ -5,7 +5,7 @@ Collect stats as total earnings, signups and first time depositors for the curre
 
 ### Install
 ```javascript
-npm install -save casino-api-videoslots
+npm install -save casino-api-netrefer
 ```
 
 ### Example:

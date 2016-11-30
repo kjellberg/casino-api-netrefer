@@ -1,6 +1,6 @@
 {
   "name": "casino-api-netrefer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Scrape earnings data from Netrefer affiliate panel",
   "main": "index.js",
   "scripts": {
